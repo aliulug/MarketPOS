@@ -7,7 +7,7 @@ using MarketPOS.MarketPOS;
 using NMock2;
 using NUnit.Framework;
 
-
+//
 namespace MarketPOS.Tests
 {
 	[TestFixture]
